@@ -2,6 +2,10 @@
 
 This repository contains a simple implementation of the classic Snake game for educational purposes using the C++ language and the Raylib graphics library. The project follows the **MVC (Model-View-Controller)** design pattern to organize the code and ensure maintainability and separation of concerns.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/dfa55945-2f34-441e-b3f7-bf35b856b81b" alt="Screenshot 2025-02-15 154518" width="40%" height="40%">
+</p>
+
 ## Requirements
 
 To compile and run the game, make sure you have installed:
@@ -36,10 +40,6 @@ To compile and run the game, make sure you have installed:
 - **Arrow Left**: Move the snake left
 - **Arrow Right**: Move the snake right
 - **ESC**: Exit the game
-
-
-<img src="https://github.com/user-attachments/assets/dfa55945-2f34-441e-b3f7-bf35b856b81b" alt="Screenshot 2025-02-15 154518" width="40%" height="40%">
-
 
 ## Code Structure
 
