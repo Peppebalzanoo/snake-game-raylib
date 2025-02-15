@@ -3,7 +3,7 @@
 
 #include "Snake.hpp"
 
-#include "./include/raylib.hpp"
+#include "raylib.h"
 
 #include <iostream>
 #include <algorithm>
