@@ -50,15 +50,6 @@ The code is organized following the **MVC (Model-View-Controller)** design patte
 - `GameView.hpp/GameView.cpp` → Handles the game's graphical rendering (View)
 - `main.cpp` → Contains the main game code
 
-## Dependencies
-
-If you don't have Raylib installed, you can download and compile it by following the instructions on the official website: [https://www.raylib.com/](https://www.raylib.com/)
-
-On Debian-based systems, you can install it with:
-
-```sh
-sudo apt install libraylib-dev
-```
 
 ## Contributions
 
