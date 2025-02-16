@@ -1,6 +1,10 @@
 # Snake Game in C++ with Raylib
 
-This repository contains a simple implementation of the classic Snake game for educational purposes using the C++ language and the Raylib graphics library. The project follows the **MVC (Model-View-Controller)** design pattern to organize the code and ensure maintainability and separation of concerns.
+This repository contains a simple implementation of the classic Snake game for educational purposes using the C++ language and the Raylib graphics library. 
+
+This project is designed for beginner-level students who want to practice and reinforce their understanding of Object-Oriented Programming (OOP) and C++ fundamentals.
+
+The project follows the **MVC (Model-View-Controller)** design pattern to organize the code and ensure maintainability and separation of concerns.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/dfa55945-2f34-441e-b3f7-bf35b856b81b" alt="Screenshot 2025-02-15 154518" width="40%" height="40%">
